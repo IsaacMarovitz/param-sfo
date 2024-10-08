@@ -1,0 +1,10 @@
+[package]
+name = "param-sfo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bitflags = "2.6.0"
+bytemuck = { version = "1.18.0", features = ["derive"] }
+num-derive = "0.4.2"
+num-traits = "0.2.19"
